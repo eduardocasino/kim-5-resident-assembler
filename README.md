@@ -15,3 +15,7 @@ I claim absolutely no right for the assembler sources, you can use them under th
 The code in the `examples` folder is in the Public Domain.
 
 The code in the `utils` folder is under the MIT License. See the LICENSE.md file for details.
+
+### Acknowlengements
+
+[Hans Otten](http://retro.hansotten.nl) for the original preservation job on the KIM-5 software.
